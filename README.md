@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Darius 
 - 💞️ I’m looking to collaborate on Arams
 - 📫 How to reach me, you can't
+- Spaaaaace
 
 <!---
 Ra-Dios/Ra-Dios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
